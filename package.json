@@ -50,18 +50,18 @@
     "hot-reload"
   ],
   "dependencies": {
-    "@types/webpack": "^4.41.0",
-    "@types/webpack-sources": "^0.1.5",
+    "@types/webpack": "^4.41.25",
+    "@types/webpack-sources": "^2.1.0",
     "colors": "^1.4.0",
     "lodash": "^4.17.15",
     "minimist": "^1.2.0",
     "useragent": "^2.3.0",
     "webextension-polyfill": "^0.5.0",
-    "webpack-sources": "^1.4.3",
+    "webpack-sources": "^2.1.0",
     "ws": "^7.2.0"
   },
   "peerDependencies": {
-    "webpack": "^4"
+    "webpack": "^5"
   },
   "devDependencies": {
     "@babel/core": "^7.6.4",
